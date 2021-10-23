@@ -15,6 +15,7 @@
 > Pemrograman visual adalah metode pembuatan program dimana programmer membuat koneksi antara objek-objek dengan cara menggambar, menunjuk, dan mengklik pada diagram dan ikon dan dengan berintraksi dengan diagram alur. contohnya: Visual Basic dan Visual C++
 
 5. Perbedaan hard code dan soft code. Berserta contohnya:
+
 < Hard code merupakan codingan yang tidak bisa diubah, contohnya : code yang terdapat pada suatu program. 
 
 < soft code merupakan kodingan yang mudah diubah, contohnya : code yang dibuat sendiri
